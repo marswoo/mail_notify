@@ -1,0 +1,8 @@
+{
+"title" : "test mail",
+"type" : "day",
+"mail_receiver" : "woody213@yeah.net",
+"mail_receiver_online" : "woody213@yeah.net",
+"test_mail_receiver" : "woody213@yeah.net",
+"debug_mail_receiver" : "woody213@yeah.net"
+}

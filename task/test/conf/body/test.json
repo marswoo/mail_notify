@@ -1,0 +1,10 @@
+{
+"type" : "span",
+"title" : "test mail",
+"data_file" : "test.data",
+"data_column_attribute" : ["string", "int", "float", "percent", "arrow"],
+"column_name" : ["type", "int_col", "float_col", "percent_col"],
+"column_value" : [[0], [1], [2], [3,4]],
+"combined_column" : [0],
+"notation_file" : "test.notation"
+}
