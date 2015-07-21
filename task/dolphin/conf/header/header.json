@@ -1,5 +1,5 @@
 {
-"report_title" : "report title",
-"report_source" :  "report_source",
+"report_title" : "Stock Bignews",
+"report_source" :  "Urllib2 crowler",
 "report_version" : "V0.1"
 }

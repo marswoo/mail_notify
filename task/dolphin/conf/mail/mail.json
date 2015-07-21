@@ -1,8 +1,8 @@
 {
-"title" : "test mail",
+"title" : "Dolphin stock bignews",
 "type" : "day",
-"mail_receiver" : "woody213@yeah.net",
-"mail_receiver_online" : "woody213@yeah.net",
+"mail_receiver" : "woody213@yeah.net,80382133@qq.com",
+"mail_receiver_online" : "woody213@yeah.net,80382133@qq.com",
 "test_mail_receiver" : "woody213@yeah.net",
 "debug_mail_receiver" : "woody213@yeah.net"
 }

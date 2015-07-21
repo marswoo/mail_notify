@@ -1,4 +1,4 @@
-#!/usr/local/bin/sh
+#!/bin/sh
 #### generate daily configure file ####
 ROOT_DIR=`pwd`
 LOG_DIR=$ROOT_DIR/log

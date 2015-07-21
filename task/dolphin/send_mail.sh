@@ -1,7 +1,6 @@
 #!/bin/bash
 #只在gateway上跑job，然后scp到开发机
 
-source /home/yasong.lys/.bashrc
 task_path=$(readlink -f $(dirname $0))
 force=""
 mode="run"

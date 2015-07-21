@@ -1,4 +1,4 @@
-#!/usr/local/bin/sh
+#!/bin/sh
 #### generate daily configure file ####
 
 if [ $# -ne 2 ]

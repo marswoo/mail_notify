@@ -1,0 +1,10 @@
+{
+"type" : "span",
+"title" : "Stock Bignews",
+"data_file" : "stock_bignews.data",
+"data_column_attribute" : ["string", "string", "string"],
+"column_name" : ["stockid", "date", "title"],
+"column_value" : [[0], [1], [2]],
+"combined_column" : [0],
+"notation_file" : "stock_bignews.notation"
+}
