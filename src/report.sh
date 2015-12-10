@@ -36,7 +36,6 @@ then
 
 	${DIR_SRC}/configure_replace.py ${DIR_CONF}/header/header.json ${DATEFORMAT}  ${DIR_CONF}/header/header.html ${DIR_REPORT}/${DATE}/header.html
 	cp ${DIR_CONF}/footer/footer.html ${DIR_REPORT}/${DATE}/footer.html
-	cp ${DIR_CONF}/header/header.html ${DIR_REPORT}/${DATE}/header.html
 
 	${DIR_SRC}/body_report.py ${DIR_TASK}/report_pipeline.conf ${DATE}
 	
